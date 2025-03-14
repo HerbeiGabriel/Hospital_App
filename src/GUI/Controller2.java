@@ -72,7 +72,6 @@ public class Controller2<T> {
         Action.getSelectionModel().selectedItemProperty().addListener(new ChangeListener<String>() {
             @Override
             public void changed(ObservableValue<? extends String> observableValue, String oldValue, String newValue) {
-                Date.setVisible(false);
                 first.setVisible(false);
                 second.setVisible(false);
                 third.setVisible(false);
