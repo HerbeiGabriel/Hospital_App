@@ -1,0 +1,22 @@
+.root {
+    -fx-background-image: url("Resources/images/Untitled-1.png");
+    -fx-background-size: cover;
+    -fx-background-position: center;
+}
+.list-cell {
+    -fx-background-color: transparent;
+}
+.list-view {
+    -fx-background-color: transparent;
+    -fx-font-size: 14px;
+}
+.list-cell:selected{
+    -fx-text-fill: #0404b5;
+}
+.label {
+    -fx-font-family: "Gopesta";
+    -fx-font-size: 14px;
+}
+.choice-box .menu-item:focused{
+    -fx-background-color: black;
+}
