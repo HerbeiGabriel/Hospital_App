@@ -5,4 +5,5 @@ Key features include:
 -Filtering lists for quick access to information.
 -Adding, removing, and updating any entity with ease.
 
-Beyond its functionality, this project also served as a learning journey. It provided an opportunity to deepen my understanding of JavaFX, Scene Builder, and the use of CSS for styling, enhancing both the app’s appearance and user experience.
+Beyond its functionality, this project also served as a learning journey. It provided an opportunity to
+deepen my understanding of JavaFX, Scene Builder, and the use of CSS for styling, enhancing both the app’s appearance and user experience.
